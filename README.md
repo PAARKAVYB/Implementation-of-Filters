@@ -11,10 +11,12 @@ Import the necessary modules.
 
 ### STEP 2:
 Perform smoothing operation on a image.
+
 Average filter(Box Filter) Weighted average filter Gaussian Blur Median filter.
 
 ### STEP 3:
 Perform sharpening on a image.
+
 Laplacian Kernel Laplacian Operator.
 
 ### STEP 4:
@@ -22,8 +24,8 @@ Display all the images with their respective filters.
 
 ## PROGRAM:
 ```
-### Developed By   : Paarkavy B
-### Register Number: 212221230072
+Developed By   : Paarkavy B
+Register Number: 212221230072
 ```
 
 ```
@@ -140,22 +142,28 @@ plt.axis('off')
 ### 1. Smoothing Filters
 
 i) Using Averaging Filter
+
 ![output](op1.png)
 
 ii) Using Weighted Averaging Filter
+
 ![output](op2.png)
 
 iii) Using Gaussian Filter
+
 ![output](op3.png)
 
 iv) Using Median Filter
+
 ![output](op4.png)
 
 ### 2. Sharpening Filters
 i) Using Laplacian Kernal
+
 ![output](op5.png)
 
 ii) Using Laplacian Operator
+
 ![output](op6.png)
 
 ## RESULT:
